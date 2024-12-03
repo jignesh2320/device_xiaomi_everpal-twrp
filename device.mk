@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/evergo
+LOCAL_PATH := device/xiaomi/everpal
 # A/B
 AB_OTA_PARTITIONS += \
     boot \
